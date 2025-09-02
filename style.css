@@ -10,3 +10,11 @@ header {
     font-size: 50px;
     color: #45f5f0;
 }
+
+section {
+    background: #0628e9;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
